@@ -1,4 +1,9 @@
 # Reverse Engineering Manga Rock's Wallpaper API
+## This repo
+In this repo you can find:
+- This readme with detailed instructions and information about how this was done
+- The complete ´data.json´ obtained from mangarock servers
+- 3 HD manga/anime images chosen from a total of 2200 I downloaded with my script
 
 ## Background
 
