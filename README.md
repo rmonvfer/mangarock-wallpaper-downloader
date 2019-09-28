@@ -9,7 +9,7 @@ In this repo you can find:
 
 ##### Historic background
 
-Manga Rock is a web service that allows it's users to seamlessly read Manga Comics and _Japan-related_ graphic material.
+Manga Rock is a web service that allows its users to seamlessly read Manga Comics and _Japan-related_ graphic material.
 
 Manga Rock launched an Android App about 5 years ago (the oldest APK I could find  was dated on 2014 ), the application uses a proprietary web API in order to communicate with its server to fetch the comic images and other assets requested by the application.
 
